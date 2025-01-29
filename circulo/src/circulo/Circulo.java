@@ -15,7 +15,7 @@ public class Circulo {
 		return longitud;
 	}
 
-	//Esto es por añadir algoç
+	//Esto es por añadir algo
 	
 	//Y esto es por responder
 	
