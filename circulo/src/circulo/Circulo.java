@@ -15,7 +15,9 @@ public class Circulo {
 		return longitud;
 	}
 
-	//Esto es por añadir algo
+	//Esto es por añadir algoç
+	
+	//Y esto es por responder
 	
 	double calcularArea(double radio) {
 		double area = (double) (3.14 * radio * radio);
